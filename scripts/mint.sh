@@ -1,0 +1,1 @@
+near call $ID nft_mint '{"token_id": "0", "receiver_id": "'$ID'", "token_metadata": { "title": "Baby MATIC", "description": "Baby MATIC NFT", "media": "https://bafkreidw2kbw7ooe4g3pgv3gowxnnjag3hovyzcnptyqlt4rgjdwsef2wu.ipfs.nftstorage.link/", "copies": 1}}' --accountId $ID --deposit 0.1
